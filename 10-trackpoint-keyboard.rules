@@ -1,0 +1,1 @@
+SUBSYSTEM=="serio", DRIVERS=="psmouse", DEVPATH=="/sys/devices/pci0000:00/0000:00:07.2/0000:50:00.0/0000:51:02.0/0000:54:00.0/usb7/7-2/7-2:1.1/0003:17EF:6047.0013", ATTR{sensitivity}="50"
